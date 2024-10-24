@@ -1,4 +1,4 @@
-- pipeline: jvcpnuecqb
+- pipeline: Jvcpnuecqb
   refs:
   - refs/heads/master
   on: CLICK
