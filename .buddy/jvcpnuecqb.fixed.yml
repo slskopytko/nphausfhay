@@ -1,0 +1,4 @@
+- pipeline: jvcpnuecqb
+  refs:
+  - refs/heads/master
+  on: CLICK
